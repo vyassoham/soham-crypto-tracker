@@ -20,7 +20,7 @@ Welcome to **Soham's Crypto Price Tracker** — a real-time web app that lets yo
 ## 🚀 Live Demo
 
 👉 [Click here to try the app](https://soham-crypto-trackergit-8nyqdwmc9p9nqx7pwffgj5.streamlit.app) 
-👉 [View GitHub Repository](https://github.com/your-username/crypto-tracker)
+👉 [View GitHub Repository](https://github.com/vyassoham/soham-crypto-tracker)
 
 ---
 
