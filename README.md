@@ -41,7 +41,7 @@ Welcome to **Soham's Crypto Price Tracker** — a real-time web app that lets yo
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/crypto-tracker.git
+git clone https://github.com/vyassoham/soham-crypto-tracker.git
 cd crypto-tracker
 
 # 2. Install dependencies
